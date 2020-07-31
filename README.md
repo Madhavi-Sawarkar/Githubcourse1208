@@ -1,2 +1,2 @@
 # Githubcourse1208
-simple sitting website in Github
+Simple Website Sitting on Github
